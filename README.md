@@ -1,6 +1,6 @@
 # scope-mdm
 
-> A scope-mdm project
+> vue项目实现表单登录页保存账号和密码到cookie功能
 
 ## Build Setup
 
