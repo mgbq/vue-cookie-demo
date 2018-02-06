@@ -1,4 +1,4 @@
-# scope-mdm
+# vue-cookie-demo
 
 > vue项目实现表单登录页保存账号和密码到cookie功能,觉得对你有帮助的话，star下哦。
 
